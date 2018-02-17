@@ -1,0 +1,618 @@
+X,Y,Z,Name,Group
+1,0.4,0.47,Kaveri,1
+1,0.5,0.4787545636,Martti Niemi,1
+10,1,0.4799499651,Jamini Kavoori,1
+19,1,0.4831322457,Liam Turner,1
+11,1,0.4832839482,Bee Österman,1
+17,1,0.4836758793,Pol Foreman Campins,1
+19,1,0.4837082259,Laura Meskanen-Kundu,1
+10,1,0.4842576881,Miila Westin,1
+15,1,0.4844906563,Mikko Airikka,1
+10,1,0.484574813,Samar Z,1
+32,0.5,0.484940552,Leena Luotio,1
+12,1,0.4853489704,Joosung Kang,1
+20,0.5,0.4853748716,Elisa Spigai,1
+15,1,0.4854141773,Parvati Pillai,1
+13,1,0.4854648517,Retno Hadiningdiah,1
+19,1,0.4856454179,Maya Pillai,1
+30,0.5,0.4857187985,Henrietta Hassinen,1
+2,0.25,0.4858096906,Lasse Niemi,1
+17,1,0.4858782852,Dinara Ishmuratova,1
+31,0.5,0.4861680213,Niina Kalliainen,1
+19,1,0.4861857665,Alexandra Diachkoff,1
+15,1,0.4863006907,Ngo Thuy,1
+25,1,0.4863347733,Rupesh Vyas,1
+33,0.25,0.4863492119,Tanja Ylitalo,1
+20,1,0.4864208496,Caleb Rugg,1
+25,1,0.4864580366,Derek Holzer,1
+20,1,0.4864653021,Sourya Sen,1
+15,0.5,0.4864803546,Stefania Passera,1
+11,1,0.4864910884,Rakastaja Roobert,1
+19,1,0.486502474,Kilian Ktm,1
+40,0.15,0.4865866201,Anne Saari,1
+11,1,0.4865990901,Kotryna Narazkevich,1
+11,1,0.4866113597,Bella Plush,1
+11,1,0.4866725703,Miia Puustinen,1
+11,1,0.4866747502,Armi Teva,1
+13,1,0.4866777844,Zach Dodson,1
+16,0.1,0.4866839059,Yu Lin,1
+19,1,0.4866879662,Athina Giokarini,1
+20,0.8,0.4866917027,Rahul Abhisek,1
+15,0.5,0.4866944569,Minna Ainoa,1
+19,1,0.4866954498,Andreas Wiberg Sode,1
+43,0.5,0.4866970891,Laurianne Echnep,1
+19,0.1,0.4867297204,Kathy Wodushek-Horton,1
+13,1,0.4867711923,Taina Tirkkonen,1
+32,0.5,0.4867935555,Maiju Hakalahti,1
+20,0.5,0.4867935555,Lauri Laatikainen,1
+18,1,0.4867949254,Valtteri Bade,1
+19,0.5,0.4868176431,Christian Antuan,1
+13,1,0.4868176431,Apila Miettinen,1
+32,0.5,0.486820791,Lasse Isokangas,1
+31,0.5,0.486820791,Ilkka Kemppinen,1
+20,0.5,0.4868221707,Timi Koponen,1
+11,1,0.4868318427,Oona Viskari,1
+11,0.5,0.4868323325,Taru Happonen,1
+18,1,0.4868342571,Siddharth Ramachandran,1
+12,1,0.4868342571,LJ Geratowski,1
+20,0.1,0.4868464202,Peter Holliday,1
+39,1,0.4868485081,Lari Koskinen,1
+14,0.1,0.4868576008,Teodor Georgiev,1
+14,0.1,0.4868611644,Cate Bustamante,1
+50,1,0.486881452,Uolevi Laakso,1
+14,0.1,0.4868877688,Slawomir Jakub,1
+19,0.1,0.4869049592,Dan Court,1
+15,0.3,0.4869059374,Adina Renner,1
+25,0.3,0.4869178762,Javier Zarracina,1
+48,1,0.4869178762,Tuisku McLees,1
+47,1,0.4869250157,Timo Laakso,1
+14,1,0.486929578,Mrkobrad Marko,1
+18,1,0.486929578,Krupakar Dhinakaran,1
+13,1,0.4869360865,Yi-Hsuan Li,1
+13,1,0.4869454029,Xinran Wang,1
+19,1,0.4869545879,Jukka Eerikäinen,1
+16,0.6,0.4869550688,Emilia Tapprest,1
+19,1,0.4869610332,Laura K Horton,1
+23,0.8,0.4869619337,Katerina Antonaki,1
+37,1,0.4869647242,Johannes Laaksonen,1
+20,1,0.4869689116,Hazal Alkan,1
+25,1,0.4869729062,Kasper Strömman,7
+45,1,0.4869729062,Jarmo Honkala,1
+10,1,0.4869750745,Sheryl Arts,1
+18,1,0.4869761352,Soumar Saloum,1
+16,1,0.4869761352,Larissa Matheus,1
+13,1,0.4869761352,Heikki Humberg,1
+13,1,0.4869761352,Riikka Kurki,1
+18,1,0.4869761352,Hanna-Maija Matikainen,1
+12,1,0.4869801734,YO RO,1
+11,1,0.4869832891,Jo Wells,1
+19,1,0.4869832891,Wolf Wikgren,1
+17,1,0.4869832891,Essi Jukkala,1
+20,1,0.4869832891,Marie Kumpulainen,1
+13,1,0.4869832891,Gino Pampaloni,1
+24,0.8,0.4869867029,Dionisis Siamagkas,1
+26,0.8,0.4869867029,Marta Zofia Ita Myszewska,1
+26,0.8,0.4869867029,Wendy Yeung,1
+38,0.8,0.48699952,Bikesh Raj Upreti,1
+25,1,0.4870046859,Rasmus Vuori,1
+27,1,0.4870046859,Juuso Koponen,1
+48,0.5,0.487008565,Lauri Uusi-Eskola,1
+13,1,0.487008565,Joona Leppänen,1
+17,0.1,0.487008565,Fanny Jauhiainen,1
+27,0.8,0.487008565,Basia Krajewska,1
+16,1,0.4870384921,Lisa Staudinger,1
+3,0.1,0.4870384921,Iris Marianne Niemi,1
+66,0.5,0.4870384921,Markus Uusitalo,5
+91,18,0.4836318065,Laurel Engbring,2
+100,15,0.4859399102,Julia Stover,2
+100,15,0.4859943816,Randi Famula,2
+91,18,0.4864799005,Chris Stedronsky,2
+93,15,0.4865097129,Dani Crain,2
+89,15,0.4867493753,MeiMei Yates,2
+93,15,0.4867493753,Julie Beegle,2
+100,15,0.4867530794,Matthew Paul Favetti,2
+100,14,0.4868176431,Matt Taylor,2
+91,4,0.4868176431,Jasmine Rae McConiga,2
+93,15,0.4868176431,Evan Rothstein,2
+92,15,0.4868176431,Laura Hallahan,2
+93,15,0.4868176431,Jacob Roche,2
+92,18,0.4868176431,Yan Lin,2
+91,18,0.4868176431,Allison Friebertsaurus,2
+102,19,0.4868176431,Marja Sovero,2
+90,16,0.4868312859,Ben Tse,2
+56,8,0.4868381465,Pietari Grohn,2
+90,18,0.486842793,Graham Kolbeins,2
+100,11,0.4868490224,Russell Garner,2
+120,18,0.486881452,Jeanette Stok,2
+91,19,0.4868921633,Brett Wallender,2
+92,18,0.4868921633,Sara Ackerman,2
+103,5,0.4868921633,Amanda Eberle,2
+92,5,0.486917539,Emily Tracy,2
+93,15,0.486917539,Kate Williams,2
+110,17,0.4869178762,Hilde Aune,2
+95,15,0.4869225553,John Cohen,2
+103,8,0.4869250157,Eduardo Baldoma Paredes,2
+93,15,0.4869348975,Andrei Gribakov Jaffe,2
+91,18,0.4869431872,Gretchen Engbring,2
+98,15,0.4869545879,Rossy Tzankova,2
+93,18,0.4869545879,Katherine Diane,2
+91,18,0.4869563709,Teri Engbring,2
+100,8,0.4869577401,Ryan Noreen,2
+92,5,0.4869610332,Allison Barnard,2
+90,18,0.4869713418,Traci Alger,2
+89,19,0.4869713418,Harrison Clay Bole,2
+89,19,0.4869761352,Fei Li,2
+102,13,0.4869761352,Jessica Famula,2
+99,18,0.4869761352,Eric Delacorte,2
+98,15,0.4869761352,Everett WuTang Schwartz,2
+90,15,0.4869799913,Renee Kemp,2
+89,18,0.4869801734,Matt Ream,2
+98,18,0.4869801734,Sabrina Marchand,2
+100,7,0.4869832891,Sean Raycraft,2
+98,12,0.4869832891,Victoria Franzen,2
+97,15,0.4869832891,Steve Pytel,2
+99,11,0.4869832891,Greg Markman,2
+98,18,0.4869832891,Herrie Son,2
+98,15,0.4869832891,Brondolfyr Whitebeard,2
+90,18,0.4869832891,Laura Yen,2
+97,15,0.4869832891,Alex Strack,2
+90,18,0.4869832891,Alex Thomas,2
+90,18,0.4869832891,Ashley Pond,2
+98,15,0.4869832891,Ruthye Cole,2
+102,10,0.4869832891,Andrew Cordova,2
+105,0,0.4869832891,Jon Dugger,2
+90,18,0.4869832891,Alex Baldwin,2
+108,15,0.4869832891,Will Liu,2
+110,17,0.4869832891,Eirik Aune,2
+90,16,0.4869863578,Danny Campos,2
+93,15,0.4869867029,Audrey Hsia,2
+103,18,0.4869867029,Emilia Sovero Hald,2
+120,11,0.4869867029,Reija Vartiainen,2
+120,17,0.4869867029,Nicola Wolf,2
+110,15,0.4869964965,Riki Hayashi,2
+88,10,0.48699952,Jenny Tan,2
+88,19,0.48699952,Christie Olson,2
+120,12,0.48699952,Zung Do,2
+89,15,0.48699952,Michele Guerrieri,2
+102,15,0.4870020867,Danielle Gammill,2
+88,18,0.4870046859,Sydney Jean Six,2
+70,18,0.4870046859,Kim Zuidema Kisilewicz,2
+110,15,0.4870046859,Daniel Lew,2
+122,15,0.4870068757,Mark Krasnow,2
+100,10,0.4870068757,Michelle Sherman,2
+92,15,0.487008565,Greg Bostock,2
+70,19,0.487008565,Rudy Zuidema Senior,2
+122,15,0.487008565,Paula Martins de Freitas,2
+110,16,0.487008565,Astrid Aune,2
+88,10,0.487008565,Maria Dewees,2
+130,5,0.4818695095,Stephanie Hull,3
+140,11,0.4847926979,Carliana Naumachia,3
+135,7,0.4860701193,Robin Choudhury,3
+145,12,0.4861047562,Jenn Casey,3
+134,5,0.4861577026,Kari Arnold,3
+130,6,0.4861877785,Brad Hull,3
+144,11,0.4863861488,Christopher Lee,3
+134,6,0.4863985309,Isaac V Greenhut,3
+133,4,0.4864240038,Emily Ok,3
+134,6,0.4865688079,Irina Shapiro,3
+143,11,0.4866349437,Johanna Bautista,3
+142,11,0.4866598425,Victoria Lo,3
+132,5,0.4867230477,Lorena Rangel,3
+130,7,0.4867496904,Ross Thompson,3
+130,2,0.4868028216,Sarah Perez,3
+138,5,0.4868176431,Christina Dennehy,3
+138,5,0.4868176431,Arianna Vlahaki,3
+136,4,0.4868176431,Ashley Hawkins,3
+125,5,0.4868176431,Leana Goetze,3
+130,7,0.4868176431,Sanabu Washizuka,3
+134,6,0.4868176431,Rachel Frank Greenhut,3
+136,7,0.4868176431,Cristina Pisani,3
+132,4,0.4868176431,Jay Byrd,3
+134,3,0.4868606265,Clara Engel,3
+139,2,0.4868663245,Nigel Parker,3
+135,2,0.4868921633,Davis Shroomers,3
+135,3,0.4868930279,Bob Johnson,3
+145,12,0.4869012071,Elliot Wong,3
+132,7,0.486917539,John Marshall,3
+144,12,0.486917539,Julienne Ratanasen,3
+133,7,0.486917539,Greg Reynolds,3
+145,12,0.4869203403,Kevin Roddy,3
+133,5,0.4869348975,Kayleigh Kagan,3
+137,7,0.4869397635,Elizabeth Henry,3
+132,3,0.4869431872,Alex Esposito,3
+136,4,0.4869439278,Emily Rustad,3
+128,4,0.4869545879,Cassandra Young,3
+139,2,0.4869545879,Stephen Joseph Bolus,3
+136,12,0.4869545879,Nicolle Nguyen,3
+150,11,0.4869545879,Kate Davalos,3
+125,3,0.4869597757,Catherine Belock,3
+133,7,0.4869666853,Jeff Kagan,3
+136,7,0.4869666853,Robin Tecon,3
+144,11,0.4869729062,Dave Hollowell,3
+143,10,0.4869729062,Tom McCabe,3
+142,12,0.4869761352,Sonia Montoya,3
+138,7,0.4869761352,Kamyar Aram,3
+143,12,0.4869801734,Macy Schoenthaler,3
+142,11,0.4869832891,Kyle Scollin,3
+137,5,0.4869832891,A.J. Campbell,3
+139,5,0.4869832891,Heather Spaulding,3
+140,12,0.4869832891,Justin Barbot-Wheaton,3
+137,5,0.4869832891,Tyler Bourret,3
+144,11,0.4869832891,Devin Croda,3
+144,11,0.4869832891,Andy Davis,3
+136,3,0.4869832891,Mimi Portilla,3
+137,5,0.4869832891,Betsy Verhoeven,3
+125,5,0.4869832891,Chardae Jones,3
+133,5,0.4869832891,Heather Mehl,3
+132,7,0.4869832891,Nilesh Maharaj,3
+133,5,0.4869832891,Amanda Cianchetta Khosravifar,3
+136,7,0.4869867029,Olin Applegate,3
+126,7,0.4869867029,Graham Russell,3
+143,12,0.4869867029,Adrienne Wonhof,3
+150,8,0.4869867029,Kyle Lamb,3
+144,11,0.4869867029,Winston Kuok,3
+141,11,0.486989582,Cindy Seo,3
+140,12,0.4869944688,JoJo Pewsawang,3
+150,11,0.48699952,Christy Marsden,3
+133,5,0.48699952,Debra Gallet,3
+130,7,0.4870007689,Michael O'Leary,3
+140,11,0.4870020867,Vince Walzberg,3
+145,11,0.4870020867,Dave Tipton,3
+135,5,0.4870046859,Anna Nguyen,3
+142,11,0.4870068757,Cheryl Chang,3
+140,11,0.4870068757,Solomon Dove,3
+138,4,0.487008565,Tamara Miller,3
+146,11,0.487008565,Larissa Connors,3
+137,5,0.487008565,Jan Tech,3
+130,7,0.487008565,Joseph L O'Leary,3
+132,3,0.487008565,Kaitlyn Kelly,3
+130,7,0.487008565,Peggy Kabuss O'Leary,3
+140,11,0.487008565,Courtney Farmer,3
+125,5,0.487008565,Erika Spadaro,3
+125,5,0.487008565,Jasmine Herrera,3
+125,5,0.487008565,Madelyn Arbios,3
+131,7,0.487008565,Katherine O'Leary,3
+134,3,0.487008565,Steven H Eize,3
+160,1.5,0.4835614122,Nick Sousa,4
+155,5,0.4866292104,Matt Hill,4
+156,2,0.4866353041,Vanessa Levin,4
+154,5,0.486656601,Christie Hamm,4
+155,2,0.4866909731,Tracie Popma,4
+149,8,0.486706326,Heidi VanAllen,4
+152,5,0.4867672272,David Hillier,4
+155,4,0.4868176431,Geoffrey Rohde,4
+155,3,0.4868176431,Barrie Olmstead,4
+156,2,0.4868176431,Justin Azevedo,4
+153,4,0.4868176431,Amy Punaro Calhoun,4
+151,7,0.4868176431,Suzanne Sasaki-Hartstein,4
+142,7,0.4868176431,Joseph Yang,4
+150,3,0.4868176431,Poppy Louthan,4
+143,8,0.4868312859,Shelly Van Allen,4
+153,4,0.4868921633,Siri Hiltz,4
+156,4,0.4868921633,James Christian Scott,4
+157,4,0.4868921633,Adam Well,4
+155,2,0.486917539,Xander Rhys Marquez,4
+158,2,0.486917539,Stephanie Manansala,4
+158,2,0.4869203403,Gregory Freeman,4
+156,5,0.4869203403,Julia Ferrelli,4
+149,8,0.4869348975,Dan Jones,4
+150,2,0.4869357785,Eda Chen,4
+152,5,0.4869545879,Jess Jupitus,4
+148,8,0.4869545879,Nathan Dea,4
+154,4,0.4869577401,Sabrina Hill,4
+156,2,0.4869610332,Molly Milazzo,4
+149,8,0.4869610332,Owen McNeill,4
+157,2,0.4869666853,Cathy Crosthwaite,4
+158,5,0.4869713418,Unnur Karadottir-Wells,4
+134,6,0.4869754942,Helen Martin,4
+154,3,0.4869761352,Katie DeKorte,4
+155,2,0.4869761352,Charles Dale,4
+156,2,0.4869801734,Andria McCune,4
+149,8,0.4869801734,Jackie Rudd,4
+154,3,0.4869801734,Jennifer Harmonson,4
+136,3,0.4869832891,Allison Ferry,4
+156,3,0.4869832891,Adam Wells,4
+150,5,0.4869832891,Brenda Haggard,4
+156,3,0.4869832891,Katie McCort,4
+157,3,0.4869832891,Nina Bochilo,4
+158,3,0.4869832891,Karen McCoy,4
+152,5,0.4869832891,Lori Easterwood,4
+154,4,0.4869837799,Seth Watkins,4
+150,1.5,0.4869867029,Linda Benedetti Sousa,4
+138,3,0.4869867029,Rachel Harris,4
+149,5,0.4869867029,Soon-Min Kwon,4
+139,5,0.4869867029,Ben Porter,4
+151,1,0.4869867029,Brady Price,4
+155,5,0.486989906,Jessica Hill,4
+140,3,0.4869910844,Rebekah Tsang,4
+152,5,0.4869930011,John Allen Cann,4
+153,5,0.4869944688,Mark Roberts,4
+139,5,0.4869973202,Joanne Porter,4
+135,7,0.48699952,Herminio Valentin Torres,4
+139,3,0.48699952,Allison L. Cross,4
+149,5,0.48699952,Dave Saechao,4
+133,3,0.48699952,RJ Taylor,4
+153,4,0.4870046859,Braulio Cruz,4
+145,3,0.4870046859,Roopkamal Gill,4
+149,8,0.487008565,Thomas Dodson,4
+148,5,0.487008565,Mike Simmons,4
+144,5,0.487008565,Tyler Randles,4
+135,6,0.487008565,Eddie Kim,4
+134,7,0.487008565,Pame Etchegoyen,4
+149,5,0.487008565,Mike Dorrity,4
+149,5,0.487008565,Ryan Taylor,4
+148,8,0.487008565,Charissa Chan-Khoo,4
+149,8,0.487008565,Shauna Picasso,4
+151,5,0.487008565,Rivkah K Sass,4
+147,8,0.487008565,Ryan R Starkweather,4
+146,8,0.487008565,Tiffany Kazemi,4
+57,9,0.4866526683,Topi Ylä-Mononen,5
+60,24,0.4866718283,Teemu Sirkiä,5
+61,24,0.4866718283,Juulia Suvilehto,5
+61,25,0.4866718283,Jenna Uusitalo,5
+62,25,0.4868663682,Mervi Yliruusi,5
+56,10,0.4869348975,Anni Pitkäjärvi,5
+63,24,0.4869351678,Cristian Thornberg,5
+62,25,0.4869627331,Teemu Yliruusi,5
+54,30,0.4869663802,Tiina Raivikko,5
+62,24,0.4869832891,Antti Einesalo,5
+55,29,0.4869832891,Päivi Mäntysaari,5
+61,24,0.4869832891,Jukka Sannikka,5
+63,24,0.4869832891,Joonas Konttila,5
+63,26,0.4869867029,Sanni Viirto,5
+64,24,0.4869867029,Paula Terho,5
+63,24,0.4869867029,Juha Nissinen,5
+64,24,0.4869867029,Paula Siljamäki,5
+55,9,0.4869930011,Akseli Henrik Väisänen,5
+54,28,0.4869973202,Juho Mäntysaari,5
+57,4,0.4809520647,Nella Tähtinen,6
+59,30,0.482054915,Lotta Mönkäre-Suutarinen,6
+58,30,0.4835011841,Tapani Koivunen,6
+56,30,0.4838656481,Ulla Marjasto,6
+52,25,0.4838927839,Emmi Koivunen,6
+57,30,0.4848489335,Anne Heikola,6
+52,28,0.4860774268,Otto Koivunen,6
+52,25,0.4861346715,Alli Klein,6
+59,30,0.486171711,Kaapo Mönkäre,6
+58,4,0.4862193646,Outi Vallius,6
+59,28,0.4862522807,Atte Mönkäre,6
+57,30,0.4866295068,Antti Marjasto,6
+52,3,0.4866885105,Hunter Scott,6
+53,10,0.4867711923,Kevan Eden,6
+59,10,0.486802461,Anssi Suutarinen,6
+53,5,0.486881452,Cori Eden,6
+59,5,0.4868972795,Paula Lonka,6
+57,2,0.4869203403,Saara Karoliina Vallius-Nevala,6
+54,10,0.486929578,Pasi Heikola,6
+55,30,0.4869344956,Kirsti Rantanen,6
+57,18,0.4869344956,Kalle Koivunen,6
+52,0.1,0.4869463203,Kristi Virden,6
+57,17,0.4869496169,Severi Koivunen,6
+57,16,0.4869496169,Konsta Koivunen,6
+57,21,0.4869496169,Retriikka Koivunen,6
+58,1,0.4869832891,Annu Vesa,6
+59,22,0.4869832891,Lauri Asunmaa,6
+54,5,0.4869832891,Kristiina Toivonen,6
+57,3,0.4869867029,Sanna Huhtasalo,6
+53,0.1,0.4870020867,Meera Klein,6
+54,3,0.487008565,Jodee Eden,6
+54,9,0.487008565,Joeti Klein,6
+56,10,0.487008565,Nancy Hager,6
+170,0,0.4868137214,Juho Heikkinen,7
+171,0,0.4868877688,Mario Gonvalski,7
+120,0,0.4869178762,Sarah Hayashi,7
+172,0,0.4869316364,Babi Brasileiro,7
+120,0,0.4869420282,Patrick Casey,7
+173,0,0.4869597068,Tuukka Heinonen,7
+174,0,0.4869597068,Kirsi Kalliomäki,7
+175,0,0.4869597068,Ilona Partanen,7
+176,0,0.4869597068,Heini Hälinen,7
+177,0,0.4869597068,Aapo Mattila,7
+178,0,0.4869597068,Pia Sissala,7
+175,0,0.4869647242,Emilia Siltavuori,7
+176,0,0.4869666491,Veera Nuutinen,7
+177,0,0.4869699897,Jari Andström,7
+176,0,0.4869699897,Toni Kiljander,7
+177,0,0.4869729062,Sarah Fischer,7
+172,0,0.4869729062,Gm El,7
+175,0,0.4869732142,Aleksandre Asatiani,7
+176,0,0.4869732658,Sachin Kundu,7
+172,0,0.4869744258,Martin-√âric Racine,7
+173,0,0.4869744258,Aatu Toivonen,7
+174,0,0.4869744258,Robert Bremer,7
+175,0,0.4869744258,Joonas Heino,7
+176,0,0.4869744258,Nurul Anwar,7
+120,0,0.4869744258,Jason Dancer,7
+175,0,0.4869744258,Karmen Kesäheinä Hellenurm,7
+175,0,0.4869744258,Thelma Lindqvist,7
+175,0,0.4869796985,Antti Ahtiluoto,7
+175,0,0.4869796985,Elisa Hautaviita,7
+175,0,0.4869796985,Maria Geddes,7
+175,0,0.4869796985,Veera Magdaleena Iliev,7
+175,0,0.4869796985,Outi Autere,7
+175,0,0.4869796985,Julianna Kähtävä,7
+175,0,0.4869796985,Elise Rehula,7
+175,0,0.4869796985,Elisa Miettinen,7
+175,0,0.4869796985,Katri A. Koivisto,7
+175,0,0.4869832891,Merja Roiko-Jokela,7
+175,0,0.4869832891,Erik Lillebo,7
+175,0,0.4869832891,Marina Rosa,7
+175,0,0.4869905451,Lyndsey True Roush,7
+175,0,0.4869929927,Shreyasi Kar,7
+175,0,0.4869930011,Tara Turner,7
+175,0,0.4869930011,Joshua Harrelson,7
+175,0,0.4869930011,Nada Hussein,7
+175,0,0.4869930011,Marcy Mallette,7
+175,0,0.4869930011,Thu Nguyen,7
+175,0,0.4869930011,Anastasia Nadia Vandersloot,7
+175,0,0.4869930011,Brandon Bellah,7
+175,0,0.4869930011,John Kwalk,7
+175,0,0.4869930011,Afton Geil,7
+175,0,0.4869930011,Misael Rojas,7
+175,0,0.4869930011,Stephanie Duncan,7
+175,0,0.4869930011,Anna Muchenikova,7
+175,0,0.4869930011,Dieter Minal,7
+175,0,0.4869939681,Lottie Crumbleholme,7
+175,0,0.4869939681,Nancy Lewis Turner,7
+175,0,0.4869939681,Shaun Kirby,7
+175,0,0.4869964965,Wigdis S. Bakke,7
+175,0,0.4869986396,Dahn,7
+175,0,0.4869986396,Will Foreman,7
+175,0,0.4869986396,Kate Dorsch,7
+175,0,0.4869995616,Marika Miettinen,7
+175,0,0.4870007689,Gurden Batra,7
+175,0,0.4870020867,Lynn Phillips,7
+175,0,0.4870020867,Eija Nikkilä,7
+175,0,0.4870020867,Jacqueline Spaulding Scott,7
+175,0,0.4870020867,Martin Oravec,7
+175,0,0.4870020867,Ragnar Anderson,7
+175,0,0.4870020867,Jenn Roush,7
+175,0,0.4870020867,Kate Woods Bleiweiss,7
+175,0,0.4870020867,Sara-Sally Baldwin,7
+175,0,0.4870020867,Kari Välimäki,7
+175,0,0.4870020867,Priscilla LoForte,7
+175,0,0.4870020867,Nick Moreno,7
+175,0,0.4870020867,Hunter Shelburne,7
+175,0,0.4870046859,R Kevin Clarke,7
+175,0,0.4870046859,Carlos Gutierrez,7
+175,0,0.4870046859,Abdelkarim Essalim,7
+175,0,0.4870046859,Jackie Taylor,7
+175,0,0.4870046859,Janne Tamminen,7
+175,0,0.4870046859,Anne-Mari Kiviniemi,7
+175,0,0.4870046859,Iina Remonen,7
+175,0,0.4870046859,Jay Jongjitirat,7
+90,0,0.4870046859,Jennifer Stone,7
+175,0,0.4870046859,Anna Simula,7
+175,0,0.4870046859,Edward Alexander Hernandez,7
+175,0,0.4870046859,Stephen Ng,7
+175,0,0.4870046859,Emmi Lamppu,7
+175,0,0.4870046859,Aryn Baker,7
+175,0,0.4870046859,Konstantinos Kellis,7
+175,0,0.4870046859,Monica V. Arellano,7
+175,0,0.4870046859,Dani Kitz Aurala,7
+175,0,0.4870046859,Elisa Mora,7
+175,0,0.4870068757,Kyle Hansen,7
+175,0,0.4870068757,Gabriela Bueno,7
+175,0,0.4870068757,Kevin Boltz,7
+175,0,0.4870068757,Debby Ng,7
+175,0,0.4870068757,Senja Larsen,7
+175,0,0.4870068757,Coralie Donkers,7
+175,0,0.4870068757,Hannah Villhauer,7
+175,0,0.4870068757,Avin Siri Maria Viviana,7
+175,0,0.4870068757,Tom Wake,7
+175,0,0.4870068757,Lisa Goetz,7
+175,0,0.4870068757,Matthew Nelson,7
+175,0,0.4870068757,Laurel Marshall,7
+175,0,0.4870068757,Joel Koppinen,7
+175,0,0.4870068757,Katie Engel,7
+175,0,0.4870068757,Jenny Lehtomäki,7
+175,0,0.4870068757,Mikko Alasaarela,7
+175,0,0.4870068757,Kati Ilomäki,7
+175,0,0.4870068757,Eric Allen,7
+175,0,0.4870068757,Elly Heney,7
+175,0,0.4870068757,Steven Tan,7
+175,0,0.4870070808,Christopher Denneson,7
+175,0,0.4870070808,Molly Mullin,7
+175,0,0.4870070808,Dusty Rose,7
+175,0,0.487008565,Alpo Saarinen,7
+175,0,0.487008565,Juha Salorinne,7
+175,0,0.487008565,Maryam Abuzaid,7
+175,0,0.487008565,Ari Andström,7
+175,0,0.487008565,Denis Zlobin,7
+175,0,0.487008565,Elina Kuutti,7
+175,0,0.487008565,Satu-Maria Rastas,7
+175,0,0.487008565,Petri Purho,7
+175,0,0.487008565,Kati Saari,7
+175,0,0.487008565,Ina Fiebig,7
+175,0,0.487008565,Karwan Musa,7
+175,0,0.487008565,Long Khoa,7
+175,0,0.487008565,Hirofumi Ueta,7
+175,0,0.487008565,Tove √òrsted,7
+175,0,0.487008565,Sonia Robinson,7
+175,0,0.487008565,Diana Sanchez,7
+175,0,0.487008565,Sirkka Andström,7
+175,0,0.487008565,Maria Sibinescu,7
+175,0,0.487008565,Miemo Penttinen,7
+175,0,0.487008565,Kirsi Korhonen,7
+175,0,0.487008565,Hai TO,7
+175,0,0.487008565,Wil Wheaton,7
+175,0,0.487008565,Maarja Kaabel,7
+175,0,0.487008565,Sonya Isupova,7
+175,0,0.487008565,Ina Markkula,7
+175,0,0.487008565,Inka Valkeapää,7
+175,0,0.487008565,Nurg√ºl √Ñbila,7
+175,0,0.487008565,Sanna Lehtinen,7
+175,0,0.487008565,Isra Rab,7
+175,0,0.487008565,Alex Ant,7
+175,0,0.487008565,Micha≈Ç Domaga≈Ça,7
+175,0,0.487008565,Christian Szatkowski,7
+175,0,0.487008565,Natalia Okuneva,7
+175,0,0.487008565,Sol Baek,7
+175,0,0.487008565,Susanna Nuutinen,7
+175,0,0.487008565,Julia Noschis,7
+175,0,0.487008565,Mella Villberg,7
+175,0,0.487008565,Samuli Jääskeläinen,7
+175,0,0.487008565,Susanna Ritala,7
+175,0,0.487008565,Otto Sarpaniemi,7
+175,0,0.487008565,Boyoung Son,7
+175,0,0.487008565,Amanda Aalto,7
+175,0,0.487008565,Rauli Valo,7
+175,0,0.487008565,Alina Sukhomlina,7
+175,0,0.487008565,Outi Mäkinen,7
+175,0,0.487008565,Lotta Fors,7
+175,0,0.487008565,Pramila Choudhary,7
+175,0,0.487008565,Hanna-Riikka Summanen,7
+175,0,0.487008565,Kai Widell,7
+175,0,0.487008565,Claudio Lins,7
+175,0,0.487008565,Liisa Vuorenpää,7
+175,0,0.487008565,Iva Ivdza Kojadinovic,7
+175,0,0.487008565,Hertta Granroth,7
+175,0,0.487008565,L√™ Anh Huy,7
+175,0,0.487008565,Mari Huhtanen,7
+175,0,0.487008565,Minna Pajari,7
+175,0,0.487008565,Bilal Ahmad,7
+175,0,0.487008565,Amar Nath Shaw,7
+175,0,0.487008565,Anna Kholina,7
+175,0,0.487008565,Irina Kauppinen,7
+175,0,0.487008565,Promila Roychoudhury,7
+175,0,0.487008565,Hel√©n Marton,7
+175,0,0.487008565,Christer Suominen,7
+175,0,0.487008565,Eero Tiainen,7
+175,0,0.487008565,Tuomas Jääskeläinen,7
+175,0,0.487008565,Patrycja Pater,7
+175,0,0.487008565,Arne Henden Aaraas,7
+175,0,0.487008565,Lille Santanen,7
+175,0,0.487008565,Tuomas Siitonen,7
+175,0,0.487008565,Ida,7
+175,0,0.487008565,Joonas Turner,7
+175,0,0.487008565,Camila Barrag√°n,7
+175,0,0.487008565,Luka Appelberg,7
+175,0,0.487008565,Agata Juszkiewicz,7
+175,0,0.487008565,Maaret Louhelainen,7
+175,0,0.487008565,Thy Hoang Phuong Nguyen,7
+175,0,0.487008565,Chiung Shen,7
+175,0,0.487008565,Hanni Piilola,7
+175,0,0.487008565,Gloria Lee,7
+175,0,0.487008565,Linda Beymer,7
+175,0,0.487008565,Elina Gundyreva,7
+175,0,0.487008565,Satu Kivistö,7
+175,0,0.487008565,Christina Wilcox,7
+175,0,0.487008565,Sana Sunwha Park,7
+175,0,0.487008565,Päivi Halonen,7
+175,0,0.487008565,Ulla Asantila,7
+175,0,0.487008565,Eeva Mäkinen,7
+175,0,0.487008565,Sebastian Selvarajan,7
+175,0,0.487008565,Joanna Haahti,7
+175,0,0.487008565,Khanh Ngoc Le,7
+175,0,0.487008565,Decir√©e Bruce,7
+175,0,0.487008565,Nina Jasmine,7
+175,0,0.487008565,Jonne Harja,7
+175,0,0.487008565,Sanna Mander,7
+175,0,0.487008565,Hana Burianov√°,7
+175,0,0.487008565,Karoliina Korpilahti,7
+175,0,0.487008565,Apichaya Sindhuprama,7
+175,0,0.487008565,Marharyta Liavonenka,7
+175,0,0.487008565,Marianna Korpi,7
+175,0,0.487008565,Joakim Smeds,7
+175,0,0.487008565,Justyna Jeziorowska,7
+175,0,0.487008565,John Samuel,7
